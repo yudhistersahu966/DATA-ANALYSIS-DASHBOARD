@@ -27,7 +27,7 @@ Blinkit Store wanted to create an annual sales report to analyze sales performan
 
 - How does customer demand vary across product segments?
 
-- Dashboard Interaction <a href = "">View Dashboard</a>
+- Dashboard Interaction <a href = "https://github.com/yudhistersahu966/DATA-ANALYSIS-DASHBOARD/blob/main/POWER%20BI%20DASHBOARD%20IMAGE.png">View Dashboard</a>
 
 ## Process
 
@@ -43,7 +43,8 @@ Blinkit Store wanted to create an annual sales report to analyze sales performan
 
 ## Dashboard
 
-(Add your dashboard screenshot here)
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/5aafaf20-6aa8-4970-ab11-9f05a33053ed" />
+
 
 ## Project Insights
 
